@@ -1,0 +1,1 @@
+export './parametros.dart';
